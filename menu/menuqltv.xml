@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_quanly_thanhvien"
+        android:title="Quản lý thành viên" />
+    <item
+        android:id="@+id/menu_quanly_thu"
+        android:title="Quản lý thu" />
+    <item
+        android:id="@+id/menu_quanly_chi"
+        android:title="Quản lý chi" />
+    <item
+        android:id="@+id/menu_timkiem"
+        android:title="Tìm kiếm" />
+    <item
+        android:id="@+id/menu_thongke"
+        android:title="Thống kê" />
+</menu>
